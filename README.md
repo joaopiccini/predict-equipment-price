@@ -1,48 +1,84 @@
 # 📊 Precificação e Classificação de Equipamentos Industriais
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > **Projeto Final** — Curso de Ciência de Dados e Inteligência Artificial (CDIA 2025)  
 > Centro Universitário SENAI SC | Florianópolis/SC
 
 ## 📋 Sobre o Projeto
 
-Conjunto de algoritmos desenvolvidos com o objetivo de **otimizar a precificação e classificação de equipamentos industriais** utilizando técnicas de Machine Learning.
+Este projeto consiste em um conjunto de algoritmos de Machine Learning desenvolvidos para **otimizar a precificação e classificação de equipamentos industriais**.
 
 O sistema resolve dois problemas principais:
+
 1. **Previsão de Preço**: Estima o preço de venda de novos equipamentos baseado em suas características técnicas
 2. **Classificação de Equipamentos**: Categoriza equipamentos em classes (A, B, C, D, E) para segmentação de clientes
+
+## 🎓 Estrutura do Projeto
+
+```
+📦 predict-equipment-price
+├── 📄 README.md                    # Documentação principal
+├── 📄 LICENSE                      # Licença MIT
+├── 📁 data/
+│   └── maquinas.csv                 # Dataset original
+│   └── maquinas_normalizado.csv     # Dataset após normalização dos dados
+├── 📁 docs/
+│   └── Apresentação.pdf             # Apresentação do Projeto
+│   └── Apresentação.mp4             # Apresentação do Projeto em Vídeo
+│   └── Relatório Técnico.pdf        # Relatório Técnico Completo
+├── 📁 models/
+│   ├── pricer.pkl                   # Modelo de precificação treinado
+│   └── classifier.pkl               # Modelo de classificação treinado
+├── 📁 notebooks/
+│   ├── Classificação dos Equipamentos.ipynb
+│   ├── Normalização e Análise dos Dados.ipynb
+│   └── Persistência dos Dados.ipynb
+│   └── Previsão de Preço.ipynb
+```
+
+Projeto desenvolvido seguindo a metodologia CRISP-DM:
+
+- ✅ Entendimento do negócio
+- ✅ Entendimento dos dados
+- ✅ Preparação dos dados
+- ✅ Modelagem (Machine Learning)
+- ✅ Avaliação de performance
+- ✅ Implementação e entrega
 
 ## 📊 Dataset
 
 O projeto utiliza dados históricos de equipamentos industriais com as seguintes variáveis:
 
 ### Variáveis Numéricas
+
 - **Preço**: Valor de venda do equipamento
 - **Potência**: Capacidade em kW/HP
-- **Peso**: Massa do equipamento (kg)
+- **Peso**: Massa do equipamento (tonelada)
 - **Durabilidade**: Vida útil estimada (anos)
 - **Garantia**: Período de cobertura (meses)
 
 ### Variáveis Categóricas
+
 - **Classe**: Categorização (A, B, C, D, E)
 - **Tecnologia**: Tipo (convencional, automatizada, embarcada, avançada)
 - **Status**: Situação de manutenção
 
 ### Variáveis Booleanas
+
 - Necessidade de energia, Requer manutenção, Sistema de refrigeração, Software integrado, Conectividade IoT
 
 ## 🔧 Etapas do Projeto
 
 ### 1️⃣ **Entendimento do Negócio**
+
 - Contextualização do problema de precificação e classificação
-- Definição de objetivos mensuráveis
-- Alinhamento com necessidades do cliente
 
 ### 2️⃣ **Preparação dos Dados**
-- Tratamento de dados faltantes (imputação por moda)
+
+- Tratamento de dados faltantes
 - Identificação e remoção de outliers
 - Normalização e padronização de strings
 - Label encoding para variáveis categóricas
@@ -53,24 +89,27 @@ O projeto utiliza dados históricos de equipamentos industriais com as seguintes
 ### 3️⃣ **Modelagem de Machine Learning**
 
 **Problema 1 - Regressão (Previsão de Preço)**
-- Algoritmo: Random Forest Regressor
+
+- Algoritmo: Logistic Regression
 - Divisão: 80% treino / 20% teste
-- Métricas: RMSE, MAE, R² Score
+- Métricas: MAE, R² Score
 
 **Problema 2 - Classificação (Categorização)**
-- Algoritmo: Decision Tree / Logistic Regression
-- Validação cruzada
+
+- Algoritmo: Random Forest Classifier
+- Divisão: 80% treino / 20% teste
 - Métricas: Acurácia, Precisão, Recall, F1-Score, Matriz de Confusão
 
 ### 4️⃣ **Avaliação e Melhorias**
+
 - Análise de performance dos modelos
 - Identificação de limitações
 - Propostas de otimização e features futuras
 
-### 5️⃣ **Implementação**
-- Pipeline completo de dados
-- Notebooks documentados no Google Colab
-- Visualizações em BI
+### 📈 Resultados
+
+- **Modelo de Precificação**: R² Score de 0.82, MAE de 4433.46
+- **Modelo de Classificação**: Acurácia de 97.3%
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -83,69 +122,22 @@ Python 3.8+
 ├── seaborn             # Gráficos estatísticos
 ```
 
-**IDE/Plataforma**: Google Colab  
-**Versionamento**: Git & GitHub
+**IDE/Plataforma**: Google Colab
 
 ## 🚀 Como Executar
 
 ### Pré-requisitos
+
 - Python 3.8 ou superior
 - Conta no Google Colab (recomendado)
 
-### Executar o Projeto
+### Executando o Projeto
 
-```bash
-# Execute o notebook principal
-jupyter notebook collab.py
-
-# Ou acesse diretamente no Google Colab (recomendado)
-```
-
-## 📈 Resultados
-
-- **Modelo de Regressão**: R² Score de X.XX, RMSE de X.XXX
-- **Modelo de Classificação**: Acurácia de XX.X%
-- **Insights**: Principais features que influenciam o preço e classificação
-
-## 🎓 Estrutura do Repositório
-
-```
-📦 sistema-equipamentos-industriais
-├── 📄 README.md                    # Documentação principal
-├── 📄 LICENSE                      # Licença MIT
-├── 📁 data/
-│   └── maquinas.csv               # Dataset original
-├── 📁 models/
-│   ├── regression_model.pkl       # Modelo de regressão treinado
-│   └── classification_model.pkl   # Modelo de classificação treinado
-├── 📁 notebooks/
-│   ├── 01_exploratory_analysis.ipynb
-│   ├── 02_data_preparation.ipynb
-│   └── 03_modeling.ipynb
-├── 📁 sql/
-│   └── database_schema.sql        # Script de criação do banco
-└── 📄 requirements.txt             # Dependências do projeto
-```
-
-## 📝 Documentação Adicional
-
-- [Apresentação do Projeto](link-para-slides)
-- [Relatório Técnico Completo](link-para-pdf)
-- [Dashboard BI](link-para-dashboard)
-
-## 🏆 Avaliação
-
-Projeto desenvolvido seguindo a metodologia CRISP-DM:
-- ✅ Entendimento do negócio
-- ✅ Entendimento dos dados
-- ✅ Preparação dos dados
-- ✅ Modelagem (Machine Learning)
-- ✅ Avaliação de performance
-- ✅ Implementação e entrega
+Baixe os notebooks do repositório e acesse diretamente no Google Colab, também é possivel executar localmente com jupyter notebook ou outras ferramentas, mas este repositório não da suporte a execução local.
 
 ## 👨‍💻 Autor
 
-**Seu Nome**  
+**João Piccini**  
 📧 j.souza@edu.sc.senai.br  
 🔗 [LinkedIn](https://www.linkedin.com/in/joaopiccini/)
 

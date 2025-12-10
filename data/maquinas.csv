@@ -1,0 +1,678 @@
+preco,potencia,durabilidade,tecnologia,peso,necessidade_energia,requere_manutencao,iot,protecao_corrente,sistema_refri,garantia,com_software,classe,status
+47950.0,7000,3,1,2,sim,nao,sim,nao,nao,0,nao,C,sem manutenção
+34930.0,4900,3,1,2,nao,nao,nao,nao,nao,0,nao,C,sem manutenção
+22481.43,2581,2,1,1,sim,sim,nao,nao,nao,1,S,A,revisado
+35000.0,9500,3,1,2,sim,nao,nao,nao,nao,3,sim,C,sem manutenção
+37730.0,6930,4,1,2,nao,nao,nao,N,nao,1,nao,C,revisado
+198026.43,2416,2,1,1,sim,nao,nao,nao,nao,2,nao,E,em manutenção
+37450.0,3480,2,1,1,sim,nao,nao,nao,nao,0,sim,E,em manutenção
+62650.0,6000,4,1,3,sim,sim,sim,nao,N,0,sim,C,sem manutenção
+35000.0,3512,2,1,1,sim,nao,nao,nao,nao,1,S,D,sem manutenção
+26600.0,3630,3,3,2,nao,sim,nao,nao,nao,0,nao,C,sem manutenção
+84000.0,8875,3,1,1,sim,nao,nao,N,N,1,nao,C,em manutenção
+44800.0,8250,3,1,1,S,N,nao,nao,N,0,nao,C,Revisado
+58100.0,5828,4,1,4,sim,sim,nao,nao,nao,0,nao,C,em manutenção
+21000.0,3360,2,1,1,sim,nao,nao,N,nao,1,nao,D,sem manutenção
+28000.0,3960,3,1,1,sim,nao,nao,nao,nao,0,nao,C,revisado
+32900.0,2500,2,1,1,nao,nao,nao,nao,sim,0,nao,D,sem manutenção
+31500.0,3986,2,2,1,nao,sim,sim,nao,nao,1,nao,C,sem manutenção
+26040.0,2910,2,1,1,nao,nao,nao,N,nao,0,nao,E,sem manutenção
+35000.0,12944,3,1,1,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+25200.0,3000,2,1,2,sim,nao,N,N,nao,0,nao,C,revisado
+46130.0,4510,4,2,2,sim,N,sim,nao,nao,0,N,C,Em manutenção
+35000.0,2135,3,2,2,nao,nao,nao,nao,nao,0,nao,C,sem manutenção
+39900.0,4050,2,1,2,sim,sim,sim,N,nao,0,sim,C,sem manutenção
+42000.0,4600,3,2,2,sim,nao,nao,nao,sim,1,nao,B,em manutenção
+35700.0,3640,2,1,1,sim,nao,nao,nao,nao,0,nao,D,sem manutenção
+30800.0,4960,2,1,1,S,nao,sim,nao,sim,0,N,C,sem manutenção
+61950.0,5500,3,2,1,sim,sim,sim,nao,nao,2,sim,B,revisado
+60900.0,8372,3,1,3,sim,nao,nao,N,sim,2,nao,C,sem
+66850.0,6600,2,2,4,sim,nao,sim,nao,nao,0,sim,C,revisado
+29400.0,3600,3,1,2,nao,nao,N,nao,nao,1,nao,C,nunca
+55510.23,7998,3,2,3,nao,sim,nao,sim,S,2,nao,E,sem manutenção
+36750.0,3600,2,1,1,sim,nao,nao,nao,nao,0,N,E,revisado
+70700.0,8880,2,11,11,sim,nao,N,nao,S,1,nao,C,em manutenção
+41930.0,3450,3,1,2,sim,nao,nao,nao,nao,1,nao,C,em manutenção
+85750.0,8800,3,2,2,sim,nao,nao,nao,sim,2,nao,A,Revisado
+66500.0,4260,4,2,2,sim,nao,nao,sim,nao,0,nao,C,em manutenção
+56000.0,5500,3,2,2,sim,N,nao,nao,nao,1,nao,B,em manutenção
+34300.0,3185,2,1,1,sim,nao,N,nao,nao,2,nao,D,sem
+52430.0,6050,3,1,1,sim,nao,sim,nao,nao,0,sim,C,em manutenção
+57400.0,4640,4,1,2,S,nao,nao,nao,nao,1,nao,C,em manutenção
+176206.27,3628,1,1,1,sim,nao,nao,nao,nao,2,N,E,em manutenção
+114100.0,7420,4,1,2,sim,S,sim,nao,sim,2,nao,C,revisao feita
+47600.0,6321,3,1,2,sim,nao,sim,nao,sim,1,nao,C,Revisado
+44730.0,3510,3,1,2,sim,nao,nao,nao,N,0,nao,C,em manutenção
+17500.0,2910,3,1,1,nao,nao,nao,nao,nao,0,nao,C,revisao feita
+37100.0,3600,3,1,1,sim,nao,nao,nao,nao,1,nao,C,sem manutenção
+8601.97,15711,4,4,4,sim,nao,S,nao,sim,3,sim,B,sem manutenção
+26600.0,3480,2,1,1,sim,nao,nao,nao,nao,1,nao,D,em manutenção
+35000.0,3600,6,1,2,sim,nao,nao,nao,N,1,nao,C,sem manutenção
+26600.0,2430,3,1,1,nao,nao,nao,nao,nao,0,nao,C,sem manutenção
+22750.0,3970,3,1,2,sim,nao,sim,nao,nao,0,nao,C,sem manutenção
+43706.82,3005,1,1,1,sim,sim,S,nao,nao,0,nao,A,revisado
+35000.0,7350,2,1,1,sim,nao,nao,nao,nao,1,nao,C,em manutenção
+61950.0,6350,3,2,3,sim,sim,N,nao,S,0,nao,B,revisado
+61950.0,5500,3,2,4,S,S,nao,nao,sim,1,nao,B,Em manutenção
+64050.0,4800,3,2,4,sim,S,nao,nao,sim,0,N,B,revisado
+30870.0,8100,2,1,1,sim,nao,N,nao,nao,1,nao,C,sem manutenção
+36400.0,2275,3,1,3,sim,nao,N,sim,sim,0,sim,C,em manutenção
+28700.0,6000,2,1,1,sim,N,nao,nao,nao,0,nao,C,Em manutenção
+37800.0,5830,2,1,1,sim,nao,nao,nao,nao,2,nao,C,sem manutenção
+40985.0,3600,3,1,1,sim,nao,sim,nao,sim,0,S,C,revisado
+43050.0,4400,2,1,1,sim,nao,nao,nao,nao,1,nao,D,em manutenção
+54600.0,6600,4,2,2,sim,sim,sim,nao,nao,0,sim,B,em manutenção
+45500.0,2550,3,1,2,sim,nao,sim,nao,nao,0,nao,C,revisado
+31500.0,1650,3,1,2,nao,nao,S,nao,nao,0,nao,C,sem manutenção
+67900.0,4000,3,2,2,sim,nao,sim,N,sim,0,S,C,em manutenção
+42770.0,3400,3,1,2,sim,nao,sim,nao,nao,2,sim,C,em manutenção
+45150.0,3510,3,1,3,sim,nao,nao,nao,nao,0,nao,C,em manutenção
+17500.0,3850,3,1,2,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+26530.0,3185,2,1,1,sim,N,N,N,sim,0,nao,D,nunca
+85400.0,6540,4,2,2,sim,sim,S,nao,sim,2,sim,A,revisado
+56000.0,4700,4,1,2,sim,sim,sim,nao,sim,1,nao,C,revisado
+35700.0,4500,2,1,1,nao,nao,nao,nao,nao,0,nao,D,Revisado
+199358.61,3982,1,1,1,nao,nao,nao,nao,sim,2,nao,D,em manutenção
+29400.0,5850,3,1,2,sim,nao,S,nao,nao,1,nao,C,sem manutenção
+21000.0,3000,4,1,10,sim,nao,nao,nao,nao,16,nao,C,sem manutenção
+73500.0,6000,3,1,2,sim,nao,nao,nao,S,1,N,C,sem manutenção
+37030.0,3120,3,1,2,nao,nao,sim,sim,nao,0,nao,C,Em manutenção
+49409.71,13609,4,4,2,sim,sim,sim,sim,sim,3,sim,E,em manuTenção
+66500.0,6420,3,2,3,sim,nao,nao,nao,sim,0,sim,B,revisado
+39900.0,6480,3,1,2,nao,nao,nao,nao,sim,1,N,C,em manutenção
+52500.0,6540,4,2,2,nao,nao,nao,nao,sim,0,nao,B,em manutenção
+36750.0,3630,2,1,1,sim,nao,N,nao,sim,0,nao,D,nunca
+56000.0,10500,2,1,1,sim,nao,nao,nao,nao,1,N,C,em manutenção
+65100.0,6670,3,1,3,sim,nao,sim,nao,nao,0,sim,C,sem manutenção
+60900.0,6600,3,1,1,sim,sim,sim,nao,nao,2,S,C,em manutenção
+25571.36,4392,1,1,1,nao,nao,nao,nao,sim,0,N,A,revisado
+122500.0,9960,3,2,2,S,N,sim,nao,nao,2,sim,B,em manutenção
+35350.0,3850,3,1,1,sim,nao,nao,nao,nao,2,nao,C,sem manutenção
+7429.36,14122,4,2,3,sim,nao,nao,nao,nao,2,nao,B,em manutenção
+42700.0,2175,3,1,2,nao,sim,sim,N,sim,0,nao,C,sem manutenção
+40075.0,3460,4,1,2,sim,nao,nao,nao,sim,0,N,C,em manutenção
+28350.0,3300,3,1,2,nao,nao,nao,nao,nao,1,nao,C,em manutenção
+28350.0,2640,2,1,1,nao,nao,nao,nao,nao,1,nao,D,revisado
+39900.0,3960,3,1,2,sim,nao,nao,nao,nao,0,nao,C,revisao feita
+56000.0,5000,3,1,4,sim,nao,nao,nao,N,0,nao,C,revisado
+3932.53,11152,5,4,1,sim,sim,sim,sim,nao,2,nao,B,revisado
+67900.0,12090,4,2,2,sim,nao,nao,nao,N,2,sim,B,revisado
+151928.94,3289,1,1,1,nao,sim,N,nao,nao,2,N,E,revisado
+33320.0,2145,3,1,2,sim,nao,sim,nao,nao,0,sim,C,Revisado
+84000.0,7000,3,1,4,sim,nao,nao,nao,sim,2,nao,C,em manutenção
+88103.05,7496,3,3,1,sim,sim,nao,nao,sim,1,nao,E,em manutenção
+49000.0,2970,3,1,3,sim,nao,nao,nao,nao,0,nao,C,em manuTenção
+40600.0,4992,3,2,2,S,nao,nao,nao,nao,2,nao,B,sem manutenção
+28602.53,2790,1,1,1,S,nao,sim,nao,nao,2,sim,A,em manutenção
+30847.12,3468,1,1,1,S,sim,sim,sim,sim,0,sim,A,revisado
+88550.0,6420,3,2,2,sim,nao,nao,nao,sim,1,sim,A,em manutenção
+40600.0,5900,4,2,2,nao,nao,sim,nao,nao,1,nao,B,sem manutenção
+42350.0,6650,3,1,2,sim,sim,nao,nao,N,0,nao,C,em manutenção
+77000.0,6000,4,2,4,sim,nao,nao,nao,nao,2,nao,B,em manutenção
+25200.0,2880,3,1,1,nao,nao,nao,nao,nao,0,nao,C,sem manutenção
+27672.72,3685,2,1,1,nao,nao,nao,nao,nao,1,nao,A,sem manutenção
+152462.48,3272,2,1,1,sim,sim,nao,nao,nao,2,nao,E,revisado
+4069.55,9166,5,3,1,sim,sim,sim,sim,nao,2,sim,A,nunca
+41650.0,4046,3,1,2,S,nao,sim,nao,nao,1,nao,C,em manutenção
+18550.0,2990,2,1,1,nao,nao,nao,nao,nao,1,nao,D,sem manutenção
+44800.0,4510,4,1,2,S,nao,N,nao,sim,2,nao,C,em manutenção
+56000.0,6600,4,2,1,sim,N,sim,nao,nao,0,sim,B,em manuTenção
+25900.0,3600,2,12,2,sim,nao,sim,nao,N,13,nao,C,revisado
+38490.09,2050,1,1,1,nao,sim,sim,sim,nao,0,nao,A,em manutenção
+32900.0,3180,4,1,2,sim,nao,sim,nao,sim,0,nao,C,nunca
+42000.0,3640,3,2,2,sim,nao,sim,nao,N,0,nao,C,sem manutenção
+36750.0,5640,2,1,1,nao,N,nao,nao,nao,0,nao,C,em manutenção
+39900.0,4050,11,1,12,sim,sim,sim,nao,nao,0,sim,C,nunca
+41930.0,8250,3,1,1,S,nao,S,nao,nao,3,N,C,em manutenção
+28525.0,5200,4,1,3,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+193564.89,2995,2,1,1,S,sim,nao,nao,nao,2,nao,D,revisado
+55584.68,13656,4,3,2,nao,N,sim,nao,sim,2,sim,E,em manutenção
+38500.0,3850,2,1,1,sim,nao,nao,nao,nao,0,nao,D,em manutenção
+42267.26,3276,2,1,1,sim,nao,sim,nao,sim,1,sim,A,em manutenção
+33600.0,4750,2,1,1,sim,nao,nao,nao,nao,0,N,C,sem manutenção
+36400.0,3180,3,1,2,nao,nao,sim,nao,N,0,nao,C,em manutenção
+65800.0,6000,3,2,4,sim,nao,nao,N,sim,0,N,B,em manutenção
+23289.91,4389,2,1,1,sim,sim,sim,sim,sim,2,nao,A,em manutenção
+74200.0,7440,3,2,4,sim,nao,nao,nao,N,1,sim,B,sem manutenção
+43400.0,4075,3,1,1,sim,sim,sim,nao,nao,2,nao,C,em manutenção
+84630.0,6000,3,2,4,sim,sim,sim,nao,sim,0,sim,B,em manuTenção
+41650.0,4080,3,1,2,sim,nao,nao,nao,nao,2,nao,C,em manutenção
+86450.0,4560,3,2,2,sim,sim,sim,nao,S,1,nao,C,revisado
+49000.0,5800,2,1,1,sim,sim,sim,nao,sim,0,nao,C,em manutenção
+30100.0,3750,3,1,2,sim,nao,nao,nao,nao,0,nao,C,sem
+35000.0,3650,3,1,2,S,nao,nao,nao,nao,0,nao,C,nunca
+74318.98,10486,5,4,1,sim,sim,N,sim,sim,2,nao,E,sem manutenção
+31150.0,3500,2,1,1,sim,nao,nao,nao,nao,0,nao,E,sem
+52500.0,9800,4,2,2,sim,sim,nao,nao,nao,2,nao,B,Em manutenção
+44030.0,2880,3,1,2,sim,nao,nao,nao,nao,0,sim,C,em manutenção
+55300.0,3650,3,2,2,sim,nao,nao,nao,nao,2,nao,C,em manutenção
+30100.0,3090,3,1,2,nao,nao,nao,nao,nao,0,nao,C,em manutenção
+34230.0,4040,2,1,1,sim,nao,nao,nao,nao,0,nao,D,sem manutenção
+84000.0,5500,4,2,2,sim,nao,sim,nao,sim,1,sim,B,em manutenção
+111154.76,14503,4,4,3,nao,sim,nao,nao,sim,0,nao,E,revisado
+50400.0,10700,3,1,2,S,sim,sim,nao,nao,0,nao,C,em manuTenção
+36750.0,3630,2,1,1,sim,nao,sim,nao,nao,0,nao,D,revisado
+42000.0,4000,4,2,2,nao,nao,nao,nao,nao,0,nao,C,em manutenção
+29400.0,3150,3,1,2,nao,nao,nao,nao,N,0,nao,C,sem manutenção
+49000.0,3000,3,1,2,sim,nao,sim,N,sim,0,nao,C,em manutenção
+49000.0,4120,2,1,1,sim,nao,sim,nao,nao,1,nao,D,em manutenção
+36400.0,3000,2,1,2,S,N,nao,nao,S,0,nao,C,revisado
+58800.0,7160,3,1,1,sim,nao,sim,nao,nao,2,sim,C,sem manutenção
+41300.0,4632,4,1,2,sim,nao,nao,nao,sim,0,nao,C,em manutenção
+73430.0,11440,4,1,2,sim,nao,sim,nao,nao,1,sim,C,em manutenção
+28700.0,3630,2,1,1,sim,nao,N,nao,nao,0,nao,D,sem
+55650.0,4400,4,1,2,sim,nao,N,N,sim,2,S,C,em manutenção
+43820.0,4950,4,1,2,S,nao,nao,N,sim,0,nao,C,em manutenção
+61600.0,4500,3,1,4,S,nao,nao,nao,sim,0,nao,C,sem manutenção
+52150.0,7200,3,1,2,sim,sim,sim,nao,nao,1,sim,C,revisado
+64190.0,6750,2,1,1,sim,sim,sim,nao,nao,2,sim,C,revisado
+42000.0,2325,3,1,2,nao,nao,nao,nao,nao,0,nao,C,em manutenção
+41300.0,5985,3,1,1,sim,nao,sim,N,N,0,nao,C,em manutenção
+28350.0,4350,3,1,2,nao,nao,nao,sim,N,1,nao,C,sem manutenção
+62930.0,6600,3,2,3,sim,nao,nao,N,sim,0,sim,B,sem manutenção
+32200.0,3120,3,1,2,nao,nao,nao,nao,nao,0,nao,C,revisao feita
+32900.0,3792,4,1,2,sim,nao,nao,nao,N,0,nao,C,em manutenção
+70000.0,11175,3,1,1,sim,nao,sim,nao,sim,1,sim,C,revisado
+26530.0,4000,3,1,2,sim,nao,nao,nao,sim,0,nao,C,nunca
+21000.0,2400,3,1,2,sim,nao,N,nao,nao,0,nao,C,sem
+116432.8,7135,4,2,2,nao,nao,nao,nao,nao,3,nao,E,sem manutenção
+37730.0,8250,3,1,1,sim,nao,nao,nao,nao,2,nao,C,revisado
+37100.0,4050,2,1,1,sim,nao,nao,nao,nao,0,nao,D,revisado
+21094.35,2668,2,1,1,sim,nao,sim,sim,sim,0,sim,A,em manutenção
+24536.1,3398,2,1,1,S,nao,nao,sim,sim,2,nao,A,em manutenção
+36400.0,3520,2,2,1,sim,nao,sim,nao,nao,0,N,C,em manutenção
+49070.0,4200,3,1,2,sim,N,nao,nao,nao,1,nao,C,revisado
+35000.0,3640,2,1,1,sim,nao,nao,N,nao,1,nao,D,em manutenção
+42700.0,6360,2,1,2,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+60830.0,4300,6,2,2,sim,nao,nao,nao,nao,0,nao,C,revisado
+36400.0,3570,3,1,2,sim,nao,sim,nao,nao,0,N,C,em manuTenção
+74550.0,4300,3,2,2,S,nao,sim,nao,nao,1,nao,C,sem manutenção
+38500.0,3180,2,2,1,sim,nao,sim,nao,nao,2,nao,C,em manutenção
+33600.0,3500,4,1,2,sim,nao,nao,nao,S,2,nao,C,sem manutenção
+65100.0,8250,3,2,3,sim,nao,N,nao,sim,0,nao,B,revisado
+46900.0,6000,2,1,1,sim,nao,sim,nao,sim,1,nao,C,revisado
+42700.0,4500,2,1,1,sim,nao,nao,nao,sim,2,N,D,revisado
+8472.95,8905,5,4,2,sim,sim,sim,nao,nao,1,sim,A,sem manutenção
+30450.0,3800,2,1,1,sim,nao,nao,nao,nao,0,nao,D,sem manutenção
+92400.0,7800,3,2,2,S,nao,nao,nao,nao,0,sim,B,em manutenção
+37800.0,3420,2,1,2,sim,nao,nao,sim,nao,1,nao,C,em manutenção
+31500.0,4095,2,1,1,sim,nao,nao,nao,nao,2,nao,D,em manutenção
+33250.0,4040,2,1,1,sim,nao,nao,N,nao,1,nao,D,sem manutenção
+42000.0,7000,3,1,1,sim,nao,nao,nao,N,3,nao,C,revisao feita
+24500.0,3500,2,1,1,sim,sim,nao,nao,nao,0,nao,E,sem manutenção
+25685.1,1898,2,1,1,sim,nao,sim,sim,sim,0,nao,A,revisado
+93100.0,6550,4,2,2,sim,N,nao,nao,sim,1,sim,A,em manutenção
+29610.0,3000,2,1,2,sim,nao,nao,nao,nao,0,N,C,em manutenção
+29400.0,4960,2,1,1,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+48930.0,3420,4,2,2,sim,nao,sim,nao,sim,2,nao,C,Em manutenção
+36400.0,5960,3,1,2,sim,sim,S,nao,nao,0,nao,C,sem manutenção
+63000.0,7200,3,2,1,sim,nao,sim,nao,sim,3,nao,A,Em manutenção
+71400.0,6000,3,2,2,sim,sim,nao,nao,nao,1,N,B,em manutenção
+34300.0,4000,2,1,1,sim,nao,nao,nao,nao,0,nao,D,nunca
+49000.0,6300,3,1,1,sim,nao,nao,nao,sim,2,nao,C,em manutenção
+59500.0,7231,3,1,2,sim,sim,S,nao,sim,0,sim,C,em manutenção
+8924.98,13137,4,4,4,sim,N,nao,sim,sim,0,sim,A,em manutenção
+70700.0,6240,4,2,2,sim,nao,nao,nao,sim,1,nao,B,revisado
+80809.4,7000,3,2,4,sim,nao,nao,nao,sim,2,nao,A,revisado
+49700.0,7686,3,1,1,sim,sim,sim,sim,nao,0,nao,C,em manuTenção
+38500.0,4080,2,1,1,sim,nao,nao,nao,nao,0,nao,D,em manutenção
+58100.0,5200,3,1,3,sim,N,nao,nao,sim,0,nao,C,em manutenção
+30800.0,2160,3,1,2,nao,nao,sim,nao,nao,0,nao,C,em manutenção
+133000.0,7420,4,2,3,sim,nao,nao,nao,sim,2,sim,A,revisado
+49000.0,4095,3,1,2,nao,sim,sim,nao,sim,0,nao,C,em manutenção
+24500.0,4840,2,1,2,sim,N,nao,nao,nao,0,nao,C,sem manutenção
+44450.0,3750,2,1,1,sim,sim,sim,nao,nao,0,nao,D,Em manutenção
+37800.0,4820,3,1,2,sim,nao,nao,nao,nao,0,nao,C,em manutenção
+42000.0,4600,16,19,2,sim,nao,nao,nao,sim,1,nao,B,em manutenção
+50400.0,6600,3,1,1,S,sim,sim,nao,nao,0,sim,C,revisado
+35700.0,3640,2,1,10,sim,N,nao,nao,nao,16,nao,D,sem manutenção
+51100.0,11410,2,1,2,sim,N,nao,nao,nao,0,sim,C,revisado
+80430.0,7482,3,2,3,sim,nao,N,sim,nao,1,sim,B,revisao feita
+35000.0,3990,3,1,2,S,nao,nao,N,nao,0,nao,C,em manuTenção
+52500.0,8520,3,1,1,sim,nao,nao,nao,S,2,nao,C,revisado
+78400.0,6360,3,2,4,sim,nao,nao,nao,sim,0,sim,B,revisado
+96224.93,8952,5,4,1,nao,sim,sim,sim,nao,3,sim,E,em manutenção
+44030.0,4880,3,1,15,sim,nao,nao,N,nao,14,S,C,sem manutenção
+52500.0,6540,18,2,2,nao,nao,nao,nao,sim,17,nao,B,em manutenção
+26600.0,4000,3,1,1,sim,nao,nao,nao,nao,0,nao,C,em manutenção
+28350.0,4350,3,15,17,nao,N,nao,sim,nao,1,nao,C,sem manutenção
+35000.0,5880,2,1,1,S,nao,nao,nao,N,0,nao,C,sem manutenção
+22670.3,4440,1,1,1,nao,N,sim,sim,sim,0,nao,A,nunca
+46900.0,4320,3,1,1,S,nao,nao,nao,nao,0,sim,C,em manutenção
+32200.0,4370,3,1,2,sim,nao,nao,nao,nao,0,N,C,sem manutenção
+31150.0,3850,3,1,2,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+33600.0,3720,2,1,1,nao,nao,nao,nao,sim,0,nao,D,sem manutenção
+59500.0,3700,4,1,2,sim,sim,nao,N,sim,0,nao,C,revisado
+49070.0,4200,3,1,14,sim,nao,nao,nao,nao,15,nao,C,revisao feita
+42000.0,5500,3,1,2,sim,nao,nao,nao,sim,0,nao,C,sem manutenção
+155971.48,3205,2,1,1,sim,sim,nao,nao,nao,1,nao,E,revisado
+30800.0,4500,2,1,2,sim,N,nao,S,nao,1,nao,C,em manutenção
+31500.0,3450,3,1,2,sim,nao,S,nao,nao,0,nao,C,em manutenção
+42000.0,4500,3,1,1,sim,N,sim,nao,nao,0,nao,C,revisado
+37100.0,3584,2,1,1,sim,nao,nao,sim,nao,0,nao,E,em manutenção
+32340.0,3640,4,1,2,sim,nao,sim,nao,nao,0,nao,C,sem manutenção
+55230.0,6900,3,1,1,sim,sim,sim,nao,N,0,sim,C,em manutenção
+48300.0,4815,2,1,1,sim,nao,nao,nao,sim,0,sim,C,em manuTenção
+28000.0,2650,3,1,2,sim,nao,sim,nao,nao,1,nao,C,sem manutenção
+47983.89,4006,1,1,1,nao,nao,nao,sim,nao,2,sim,A,revisado
+70700.0,8880,2,1,1,S,nao,N,nao,sim,1,nao,C,em manutenção
+33600.0,3100,3,1,2,nao,nao,sim,N,nao,0,nao,C,em manutenção
+35000.0,3480,3,1,1,nao,nao,nao,nao,sim,0,N,C,sem
+185228.65,2061,2,1,1,sim,sim,nao,nao,S,1,nao,D,revisado
+44100.0,4900,2,1,2,sim,nao,sim,nao,N,0,nao,C,Em manutenção
+42000.0,2953,3,1,2,sim,nao,sim,nao,sim,0,nao,C,sem manutenção
+73500.0,6000,4,2,4,sim,sim,nao,nao,sim,1,N,B,revisado
+36050.0,4500,2,1,1,sim,nao,nao,nao,nao,0,nao,D,em manutenção
+22750.0,1836,2,1,1,N,nao,sim,nao,nao,0,nao,E,em manutenção
+38360.0,3350,3,1,2,sim,N,nao,nao,nao,0,N,C,sem manutenção
+158256.34,1960,1,1,1,nao,sim,nao,nao,sim,2,nao,E,em manutenção
+34650.0,5320,2,1,1,sim,nao,nao,nao,nao,1,sim,C,sem manutenção
+35000.0,4240,3,1,2,sim,nao,nao,nao,sim,0,nao,C,em manutenção
+37100.0,4040,2,1,1,sim,nao,nao,nao,N,0,nao,D,Em manutenção
+19600.0,3420,5,1,2,nao,nao,nao,nao,nao,0,nao,C,sem manutenção
+37030.0,5450,2,1,1,sim,nao,nao,nao,nao,0,nao,C,revisado
+55317.26,13632,5,4,1,nao,sim,sim,sim,sim,1,sim,E,Revisado
+17671.5,2400,3,1,1,nao,nao,nao,nao,nao,0,nao,C,em manutenção
+30100.0,4600,2,1,1,sim,nao,nao,N,nao,0,nao,C,revisado
+101500.0,16200,5,3,2,sim,nao,nao,nao,nao,0,nao,B,sem manutenção
+24500.0,3000,2,1,1,sim,nao,nao,nao,N,1,nao,D,sem
+44800.0,4000,3,1,2,sim,nao,nao,nao,nao,2,nao,C,revisado
+18550.0,2990,2,1,16,nao,N,nao,nao,nao,15,nao,D,sem manutenção
+54950.0,7980,3,1,1,S,nao,nao,nao,nao,2,nao,C,em manutenção
+40250.0,5400,3,1,1,sim,nao,nao,nao,N,3,nao,C,Em manutenção
+66290.0,6000,3,1,2,sim,N,nao,sim,nao,1,sim,C,em manutenção
+17500.0,3620,2,1,1,sim,nao,nao,N,nao,0,nao,D,sem manutenção
+56000.0,4800,5,2,3,nao,nao,sim,sim,nao,0,nao,B,sem manutenção
+49000.0,6720,3,1,1,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+33600.0,4960,4,1,3,nao,nao,nao,nao,nao,0,nao,C,em manutenção
+155966.39,2755,2,1,1,nao,nao,sim,nao,nao,0,nao,D,revisado
+6876.88,14736,3,4,3,sim,nao,sim,sim,nao,1,sim,A,revisado
+56000.0,10500,4,2,2,sim,nao,nao,nao,N,1,nao,B,em manutenção
+39200.0,2145,4,2,1,S,nao,sim,nao,nao,0,S,C,sem manutenção
+67550.0,6000,4,2,4,sim,nao,nao,nao,sim,0,nao,B,sem manutenção
+176460.4,2785,2,1,1,nao,sim,sim,nao,sim,0,nao,D,sem manutenção
+198428.78,3660,1,1,1,sim,nao,sim,nao,sim,2,nao,D,sem manutenção
+186861.93,4251,1,1,1,nao,nao,S,nao,nao,2,nao,D,em manutenção
+74900.0,6600,3,1,4,sim,N,nao,nao,sim,3,sim,C,revisado
+40075.0,4500,3,1,2,nao,nao,S,nao,sim,0,nao,C,em manutenção
+92670.08,5985,4,4,3,nao,nao,sim,sim,nao,0,nao,E,sem manutenção
+40250.0,3460,3,2,1,sim,nao,sim,nao,sim,1,nao,C,revisado
+52500.0,5500,3,2,1,sim,nao,sim,nao,nao,0,nao,B,Em manutenção
+26600.0,3934,2,1,1,sim,N,nao,nao,nao,0,nao,D,sem manutenção
+21000.0,3000,4,1,2,sim,nao,N,nao,nao,0,nao,C,sem manutenção
+32900.0,3480,4,1,2,nao,nao,nao,nao,nao,1,nao,C,em manuTenção
+35334.23,3969,1,1,1,nao,sim,sim,nao,nao,0,sim,A,sem manutenção
+51450.0,3410,3,1,2,nao,nao,nao,nao,sim,0,nao,C,em manutenção
+61250.0,6420,3,1,3,sim,nao,sim,N,nao,0,S,C,sem manutenção
+45768.92,14450,5,2,2,nao,sim,nao,nao,nao,3,nao,E,revisado
+79100.0,6000,4,2,4,sim,nao,nao,nao,sim,1,N,B,em manutenção
+42000.0,2747,4,2,2,nao,nao,nao,nao,nao,0,nao,C,em manutenção
+52500.0,5300,4,2,1,S,nao,nao,nao,sim,0,S,B,sem manutenção
+54250.0,6825,3,1,1,S,sim,S,nao,sim,0,sim,C,em manutenção
+169120.68,2527,1,1,1,sim,nao,nao,nao,sim,0,nao,E,sem manutenção
+23800.0,3264,2,1,1,sim,N,nao,nao,nao,0,nao,E,sem manutenção
+35000.0,3036,3,1,2,sim,nao,sim,nao,nao,0,nao,C,em manutenção
+61075.0,3240,4,1,3,sim,nao,nao,nao,nao,1,nao,C,em manutenção
+46900.0,9667,4,2,2,sim,sim,sim,N,nao,1,nao,B,em manutenção
+48930.0,4995,4,2,1,sim,nao,sim,nao,nao,0,nao,B,em manutenção
+47670.0,3420,4,2,2,sim,nao,nao,nao,nao,0,N,C,em manutenção
+33530.0,2700,3,1,1,nao,nao,nao,nao,nao,0,nao,C,revisado
+49000.0,12900,3,1,1,sim,nao,nao,nao,nao,2,nao,C,revisado
+50330.0,4800,2,1,1,sim,S,sim,nao,nao,0,nao,C,em manutenção
+62300.0,6600,3,2,1,sim,nao,sim,nao,S,0,sim,B,sem manutenção
+84000.0,7475,3,2,4,sim,nao,nao,nao,sim,2,nao,A,sem manutenção
+59500.0,6254,4,2,1,sim,nao,sim,nao,nao,1,S,B,em manutenção
+54950.0,2817,4,2,2,N,sim,sim,nao,nao,1,nao,C,revisado
+38500.0,2015,3,1,2,S,nao,sim,nao,nao,0,sim,C,em manutenção
+46200.0,5680,3,1,2,sim,sim,nao,nao,sim,1,nao,C,em manuTenção
+184992.18,2292,1,1,1,S,nao,nao,nao,sim,0,nao,D,Revisado
+9503.67,11465,4,2,4,sim,S,nao,sim,nao,3,nao,B,sem manutenção
+45430.0,4990,4,2,2,sim,sim,sim,nao,nao,0,sim,B,revisado
+46200.0,2870,2,1,2,S,sim,sim,nao,nao,0,S,C,em manutenção
+31290.0,5495,3,1,1,sim,nao,sim,nao,nao,0,nao,C,sem manutenção
+122150.0,7500,4,18,15,S,nao,sim,nao,S,3,sim,A,revisado
+192367.81,4123,2,1,1,nao,nao,sim,nao,sim,1,nao,D,sem manutenção
+24500.0,7700,2,1,1,sim,nao,nao,N,nao,0,nao,C,sem manutenção
+98700.0,8100,4,1,2,sim,sim,sim,nao,sim,2,sim,C,revisado
+88900.0,4600,3,2,2,sim,sim,nao,nao,sim,2,nao,B,Revisado
+49000.0,5800,2,13,15,sim,sim,sim,nao,sim,0,nao,C,em manutenção
+42000.0,3520,3,1,2,S,N,nao,nao,nao,0,sim,C,em manutenção
+51450.0,7980,3,1,1,sim,nao,nao,N,nao,1,sim,C,em manutenção
+45829.67,15285,3,2,3,nao,nao,nao,nao,sim,2,sim,E,sem manutenção
+65100.0,3760,3,1,2,sim,N,nao,sim,nao,2,nao,C,em manutenção
+35000.0,3120,3,1,2,sim,nao,nao,nao,nao,1,nao,C,sem manutenção
+18200.0,3000,2,1,1,sim,nao,sim,nao,nao,2,nao,D,sem manutenção
+23800.0,2475,3,1,2,sim,nao,nao,nao,nao,0,nao,C,revisado
+64400.0,8580,5,3,2,sim,nao,nao,nao,nao,2,N,B,Revisado
+62300.0,5500,3,1,3,sim,nao,nao,nao,nao,1,sim,C,sem manutenção
+36400.0,4130,3,2,2,S,nao,nao,nao,nao,2,nao,C,em manutenção
+52150.0,4500,4,2,1,N,nao,sim,nao,sim,2,nao,C,Em manutenção
+158968.3,3957,2,1,1,nao,nao,nao,nao,sim,1,nao,D,em manutenção
+29750.0,4352,4,1,2,nao,nao,nao,nao,nao,1,N,C,sem
+6552.84,9963,5,3,4,sim,S,sim,S,nao,2,nao,B,em manutenção
+31605.03,3240,1,1,1,sim,nao,sim,sim,S,0,nao,A,revisado
+52850.0,4600,2,11,17,sim,nao,nao,nao,sim,2,nao,C,em manutenção
+57400.0,6360,3,1,1,sim,sim,S,nao,sim,2,sim,C,revisado
+31500.0,9000,3,1,2,sim,nao,nao,nao,nao,2,nao,C,em manutenção
+184814.41,4315,1,1,1,nao,nao,sim,nao,nao,0,nao,D,revisado
+49000.0,5400,4,1,2,S,nao,nao,nao,nao,0,nao,C,em manutenção
+54600.0,6100,3,1,3,sim,sim,nao,N,sim,0,sim,C,em manutenção
+48300.0,4160,3,1,3,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+39900.0,4100,4,1,1,nao,nao,sim,nao,nao,0,nao,C,sem
+52500.0,3800,3,1,2,sim,sim,sim,N,nao,1,sim,C,sem manutenção
+60830.0,9620,3,1,1,sim,nao,sim,nao,nao,2,sim,C,revisao feita
+38500.0,5300,5,2,2,sim,nao,nao,nao,nao,0,N,B,em manuTenção
+5956.62,6149,5,2,4,sim,N,sim,sim,sim,2,nao,B,em manutenção
+44730.0,6360,2,1,1,sim,nao,sim,nao,S,1,nao,C,revisado
+51100.0,3000,3,1,2,sim,nao,sim,nao,nao,0,nao,C,sem manutenção
+43400.0,6450,4,1,2,sim,nao,nao,nao,nao,0,nao,C,em manuTenção
+45500.0,5360,3,1,2,sim,nao,nao,nao,nao,2,sim,C,nunca
+61600.0,5450,4,2,1,sim,nao,sim,nao,sim,0,sim,B,em manutenção
+64400.0,5000,3,1,2,sim,N,nao,nao,sim,0,nao,C,em manutenção
+33950.0,4785,3,1,2,sim,sim,S,N,sim,1,nao,C,revisao feita
+3618.47,8160,3,2,4,sim,nao,sim,sim,sim,2,nao,B,em manutenção
+87500.0,4320,3,1,2,sim,nao,sim,sim,nao,2,nao,C,Em manutenção
+49560.0,2800,3,2,2,nao,nao,sim,nao,sim,1,N,C,em manuTenção
+24080.0,3635,2,1,1,nao,nao,nao,nao,nao,0,nao,D,sem manutenção
+37800.0,8400,2,1,1,sim,nao,nao,nao,nao,1,nao,C,revisado
+47600.0,10240,2,1,1,S,nao,nao,nao,sim,2,sim,C,sem manutenção
+49700.0,4410,12,3,2,sim,nao,sim,nao,N,10,nao,C,em manutenção
+66500.0,6500,3,2,3,sim,nao,nao,nao,sim,0,sim,B,revisado
+40600.0,4340,3,1,1,sim,nao,nao,nao,nao,0,nao,C,Em manutenção
+34300.0,1950,3,2,2,sim,nao,sim,nao,nao,0,sim,C,sem manutenção
+30100.0,3630,4,1,2,sim,nao,nao,nao,nao,3,nao,C,em manutenção
+64750.0,7410,3,1,1,sim,sim,sim,nao,sim,2,sim,C,sem manutenção
+91000.0,6600,4,2,2,sim,sim,sim,nao,sim,1,S,A,sem manutenção
+50050.0,8150,3,2,1,sim,sim,sim,nao,nao,0,nao,B,Em manutenção
+69300.0,13200,2,1,1,sim,nao,S,sim,nao,1,nao,C,revisado
+101500.0,8580,4,3,4,sim,nao,nao,nao,sim,2,sim,A,em manutenção
+45500.0,3640,3,1,2,sim,nao,nao,nao,sim,0,nao,C,revisado
+42700.0,6360,2,1,1,sim,nao,nao,nao,nao,0,nao,C,revisado
+38850.0,3780,2,1,2,sim,sim,sim,nao,nao,0,nao,C,em manutenção
+91000.0,6000,4,1,2,sim,nao,S,nao,nao,2,nao,C,em manutenção
+40824.56,3798,2,1,1,N,nao,nao,nao,sim,1,nao,A,Em manutenção
+45150.0,3450,3,1,2,sim,N,sim,nao,nao,1,nao,C,em manutenção
+23100.0,3180,2,1,1,sim,nao,nao,nao,nao,0,nao,E,sem manutenção
+196291.95,3645,1,1,1,sim,N,sim,N,nao,1,nao,E,Revisado
+33950.0,3450,3,1,1,sim,N,sim,N,nao,2,N,C,sem manutenção
+63000.0,6000,4,2,4,sim,nao,nao,nao,nao,1,nao,B,em manutenção
+42000.0,4410,2,1,1,nao,nao,nao,nao,nao,1,nao,D,sem manutenção
+27300.0,6800,2,1,1,sim,N,nao,nao,N,0,N,C,sem
+37100.0,6020,3,1,1,sim,nao,N,nao,nao,0,nao,C,em manutenção
+59500.0,6525,3,2,4,sim,nao,nao,nao,N,1,nao,B,revisao feita
+57400.0,5000,3,1,3,sim,nao,nao,nao,sim,0,nao,C,Em manutenção
+47600.0,9166,2,1,1,sim,nao,sim,nao,sim,2,nao,C,em manutenção
+24842.5,3893,1,1,1,sim,nao,nao,nao,sim,0,nao,A,sem manutenção
+46900.0,3630,3,1,2,sim,nao,nao,N,nao,2,nao,C,em manutenção
+45150.0,3520,2,1,2,sim,nao,nao,nao,nao,0,sim,C,revisao feita
+63000.0,4100,3,2,3,sim,nao,nao,nao,sim,2,nao,C,em manutenção
+29400.0,3480,3,1,2,N,nao,nao,nao,nao,1,nao,C,em manutenção
+66500.0,6000,3,2,3,sim,S,nao,nao,sim,0,nao,B,revisado
+35700.0,3150,3,1,2,sim,N,sim,nao,nao,0,nao,C,revisado
+25900.0,3600,2,2,2,sim,nao,sim,N,N,1,nao,C,revisado
+36050.0,4000,2,1,1,sim,nao,nao,nao,nao,0,sim,D,em manutenção
+72450.0,9000,4,2,4,sim,sim,nao,nao,sim,1,sim,A,revisado
+60200.0,6900,3,2,1,sim,sim,sim,nao,nao,0,sim,B,sem manutenção
+186168.67,4195,2,1,1,sim,sim,nao,nao,sim,1,nao,D,nunca
+43994.63,4417,2,1,1,S,sim,sim,sim,sim,2,nao,A,Em manutenção
+43400.0,1905,5,1,2,nao,nao,S,nao,nao,0,nao,C,em manutenção
+68600.0,6000,3,1,1,sim,nao,nao,nao,sim,1,nao,C,revisado
+74200.0,7440,3,2,1,sim,sim,sim,nao,sim,0,sim,B,Em manutenção
+98000.0,5750,3,2,4,sim,sim,nao,nao,sim,1,sim,B,sem manutenção
+57750.0,6000,3,2,4,sim,N,nao,nao,sim,0,nao,B,sem
+18767.73,3155,2,1,1,nao,nao,sim,nao,sim,0,sim,A,em manutenção
+58800.0,6500,3,2,3,sim,nao,nao,nao,sim,0,nao,B,nunca
+29400.0,3660,4,1,2,nao,N,nao,nao,nao,0,nao,C,sem manutenção
+57400.0,5800,3,2,4,sim,nao,nao,nao,sim,0,nao,B,nunca
+36400.0,2850,3,2,2,nao,nao,sim,nao,nao,0,sim,C,sem manutenção
+191743.92,3281,1,1,1,sim,sim,nao,nao,nao,0,nao,E,revisado
+54600.0,6210,4,1,4,sim,sim,nao,nao,sim,0,N,C,revisado
+21000.0,2400,3,18,16,sim,nao,nao,nao,nao,0,N,C,sem manutenção
+92400.0,3500,4,2,2,sim,nao,nao,sim,nao,2,nao,C,revisado
+38500.0,7152,3,1,2,sim,nao,nao,nao,sim,0,nao,C,revisado
+58730.0,11460,3,1,3,sim,nao,nao,nao,nao,2,sim,C,em manuTenção
+32550.0,4500,2,1,1,nao,nao,nao,nao,N,0,nao,D,em manutenção
+60200.0,8000,3,1,1,S,sim,sim,nao,S,2,S,C,Em manutenção
+55650.0,5400,5,1,2,sim,sim,sim,nao,sim,0,sim,C,revisado
+51100.0,3000,3,2,2,sim,S,sim,N,nao,0,nao,C,revisado
+35700.0,4500,4,2,2,sim,nao,sim,nao,N,2,nao,C,revisado
+9402.7,12700,5,2,3,sim,nao,nao,nao,N,2,nao,A,sem manutenção
+30100.0,5076,3,1,1,nao,nao,nao,nao,nao,0,nao,C,sem manutenção
+32550.0,4500,11,12,1,nao,nao,nao,nao,nao,0,nao,D,em manutenção
+121067.89,10572,3,2,4,S,sim,sim,nao,sim,0,sim,E,em manutenção
+58660.0,4800,3,1,1,S,sim,sim,nao,nao,0,N,C,sem manutenção
+45850.0,3840,3,1,2,sim,nao,nao,nao,nao,1,sim,C,em manutenção
+66150.0,4000,3,2,2,sim,nao,sim,nao,sim,1,nao,C,em manutenção
+32550.0,3930,2,1,1,nao,nao,nao,nao,nao,0,nao,D,sem manutenção
+22400.0,1950,3,1,1,nao,nao,nao,sim,nao,0,N,C,sem manutenção
+52150.0,3180,3,2,2,sim,nao,nao,nao,nao,2,N,C,em manutenção
+26950.0,4000,2,1,1,sim,nao,nao,nao,nao,0,nao,D,sem manutenção
+31500.0,3450,1,1,1,sim,nao,N,nao,nao,0,nao,E,Revisado
+32900.0,6060,3,1,1,sim,sim,sim,N,nao,0,nao,C,revisado
+20953.94,2155,2,1,1,sim,nao,S,sim,sim,0,nao,A,sem manutenção
+66993.25,10608,3,4,1,sim,nao,sim,sim,nao,3,nao,E,sem manutenção
+26600.0,2000,2,1,2,sim,nao,nao,N,nao,0,nao,C,em manutenção
+183702.57,2990,2,1,1,sim,sim,nao,nao,nao,0,nao,E,sem manutenção
+75600.0,6000,3,2,3,sim,nao,nao,nao,sim,0,nao,B,Em manutenção
+39900.0,4500,3,2,2,nao,nao,sim,nao,sim,0,nao,C,em manutenção
+25219.06,3981,2,1,1,N,nao,sim,sim,nao,1,nao,A,Em manutenção
+49000.0,4646,3,1,2,sim,sim,sim,nao,nao,2,nao,C,em manutenção
+59500.0,6420,3,1,1,sim,nao,sim,nao,sim,0,sim,C,revisado
+34650.0,3060,3,1,1,sim,nao,N,nao,nao,0,nao,C,sem
+42000.0,2145,15,1,15,sim,N,N,nao,N,1,sim,C,sem manutenção
+62983.19,5809,4,2,4,nao,nao,nao,sim,sim,1,sim,E,sem manutenção
+33250.0,4775,4,1,2,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+30100.0,2835,2,1,1,sim,nao,N,nao,nao,0,nao,E,em manutenção
+56000.0,6360,3,1,3,sim,nao,N,N,nao,0,sim,C,em manutenção
+40600.0,3000,4,1,3,sim,nao,sim,nao,sim,2,N,C,em manutenção
+72100.0,7680,4,2,4,sim,sim,nao,nao,sim,1,nao,A,em manutenção
+45500.0,5320,3,1,2,sim,sim,sim,nao,nao,0,sim,C,em manutenção
+36400.0,4280,2,1,1,sim,nao,nao,nao,sim,2,nao,D,em manutenção
+45500.0,3760,3,1,1,sim,nao,nao,nao,nao,2,nao,C,em manutenção
+42350.0,2787,3,1,1,sim,nao,sim,nao,nao,0,sim,C,revisado
+189266.05,4420,2,1,1,sim,nao,sim,nao,nao,2,nao,D,em manutenção
+69300.0,8880,3,2,2,sim,nao,sim,nao,sim,1,nao,A,revisado
+34300.0,3850,3,1,1,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+24500.0,3210,3,1,2,sim,nao,sim,nao,nao,0,nao,C,sem manutenção
+46200.0,4160,3,1,1,sim,sim,S,nao,S,0,nao,C,sem manutenção
+9206.61,4737,5,2,3,S,nao,sim,N,nao,1,sim,B,em manutenção
+23450.0,3640,2,1,1,sim,N,nao,nao,nao,0,nao,D,sem manutenção
+38500.0,2176,2,1,2,sim,sim,nao,nao,nao,0,sim,C,em manuTenção
+45500.0,8400,4,1,4,sim,nao,nao,nao,nao,3,nao,C,sem manutenção
+43050.0,10360,2,1,1,sim,nao,nao,nao,nao,1,sim,C,em manutenção
+60033.13,5101,4,3,3,nao,nao,nao,sim,sim,0,nao,E,revisado
+48300.0,6040,3,1,1,sim,nao,nao,nao,nao,2,sim,C,em manutenção
+31150.0,3000,3,1,1,nao,nao,N,nao,sim,0,nao,C,sem manutenção
+33950.0,3640,2,1,1,sim,nao,nao,nao,nao,0,N,D,revisado
+30100.0,3240,3,1,2,sim,nao,nao,nao,nao,2,nao,C,em manutenção
+37730.0,2520,5,2,1,nao,nao,sim,nao,sim,1,nao,C,revisado
+3376.76,6957,3,4,3,sim,nao,sim,N,sim,2,sim,A,Revisado
+57400.0,6360,3,1,18,sim,S,sim,nao,sim,17,sim,C,revisado
+35000.0,7424,3,1,1,nao,nao,nao,nao,nao,0,nao,C,sem manutenção
+50400.0,3540,2,1,1,nao,sim,sim,N,nao,0,nao,E,em manutenção
+52500.0,10269,3,1,1,sim,nao,nao,nao,nao,1,sim,C,em manutenção
+58730.0,5500,3,1,3,S,sim,nao,nao,sim,1,nao,C,revisado
+41650.0,4840,3,1,2,sim,nao,nao,nao,nao,1,nao,C,em manutenção
+103686.83,12350,5,3,2,nao,sim,nao,nao,nao,1,nao,E,sem manutenção
+49560.0,2800,16,2,2,N,nao,sim,N,sim,16,N,C,em manuTenção
+66500.0,5700,3,1,1,sim,S,sim,nao,sim,2,sim,C,revisado
+46550.0,3745,3,1,2,sim,nao,sim,nao,nao,0,nao,C,revisado
+42700.0,7770,2,1,1,sim,nao,nao,nao,nao,1,nao,C,revisado
+74200.0,6325,15,19,4,sim,N,nao,N,sim,1,N,C,sem manutenção
+34650.0,2145,3,1,3,sim,nao,nao,nao,nao,0,sim,C,revisado
+47798.56,14949,3,3,2,sim,sim,nao,sim,sim,2,sim,E,em manutenção
+60900.0,6615,4,2,2,sim,sim,nao,sim,nao,1,nao,B,em manutenção
+65533.65,4932,3,2,1,sim,nao,nao,nao,sim,3,nao,E,revisado
+59430.0,15600,3,1,1,S,nao,nao,nao,sim,2,nao,C,Em manutenção
+40950.0,4040,2,1,2,sim,nao,nao,nao,N,1,nao,C,em manuTenção
+59500.0,6540,3,1,1,sim,sim,sim,nao,nao,2,sim,C,revisao feita
+45850.0,4000,3,1,2,sim,nao,nao,nao,nao,1,nao,C,revisado
+45430.0,4100,2,2,1,S,sim,sim,nao,nao,0,N,C,em manutenção
+52850.0,4600,2,2,1,sim,nao,nao,N,sim,2,nao,C,em manutenção
+72100.0,6000,3,2,4,sim,sim,nao,nao,sim,1,nao,B,revisado
+81900.0,5960,3,3,2,sim,sim,sim,nao,N,1,nao,B,sem
+187719.29,4226,2,1,1,nao,nao,sim,nao,nao,2,nao,D,em manutenção
+35000.0,5900,2,1,1,S,nao,nao,nao,nao,1,nao,C,revisado
+40950.0,3680,3,2,2,sim,nao,nao,nao,nao,0,nao,C,em manutenção
+44800.0,5885,2,1,1,S,nao,nao,nao,sim,1,nao,C,sem
+44030.0,4880,3,1,1,sim,nao,N,nao,nao,2,sim,C,sem manutenção
+32900.0,4040,2,1,1,sim,nao,nao,nao,N,0,N,D,sem manutenção
+25200.0,3180,3,1,1,nao,nao,nao,nao,N,0,nao,C,sem manutenção
+25900.0,3600,2,1,1,sim,nao,nao,nao,nao,0,nao,E,sem manutenção
+31430.0,4500,3,1,2,sim,nao,N,nao,sim,0,nao,C,nunca
+86450.0,8050,3,1,1,sim,S,sim,nao,sim,1,nao,C,Revisado
+50750.0,5720,2,1,2,sim,nao,nao,N,sim,0,sim,C,sem manutenção
+52500.0,8400,3,1,2,sim,S,sim,nao,sim,2,sim,C,nunca
+59500.0,7020,3,12,19,sim,nao,sim,nao,sim,2,sim,C,em manutenção
+61600.0,5450,4,2,18,sim,N,sim,nao,sim,19,sim,B,em manuTenção
+54600.0,3150,3,2,1,sim,sim,sim,N,sim,0,nao,C,revisado
+84000.0,7950,5,2,2,sim,nao,sim,sim,nao,2,nao,B,sem manutenção
+31500.0,3069,2,1,1,sim,nao,nao,nao,nao,1,nao,D,sem manutenção
+24643.3,4223,1,1,1,nao,sim,nao,nao,sim,1,nao,A,em manuTenção
+122500.0,8960,4,4,4,sim,nao,nao,nao,S,3,nao,A,revisado
+59500.0,7020,3,1,1,sim,nao,sim,nao,sim,2,sim,C,em manutenção
+151434.68,2090,1,1,1,N,sim,S,nao,nao,2,nao,D,revisado
+39200.0,3000,3,1,2,sim,nao,nao,nao,nao,0,nao,C,em manutenção
+40600.0,4320,3,1,2,sim,nao,nao,nao,nao,2,sim,C,revisado
+64750.0,3960,3,1,1,sim,nao,sim,nao,N,2,nao,C,em manutenção
+86800.0,7155,3,2,1,sim,sim,sim,N,sim,2,N,A,sem manutenção
+35387.71,4145,1,1,1,sim,nao,nao,N,S,1,sim,A,em manutenção
+184872.52,4395,1,1,1,sim,sim,nao,nao,nao,1,nao,E,sem manutenção
+82950.0,4880,4,2,2,sim,nao,nao,nao,sim,1,sim,B,Revisado
+75600.0,6000,4,2,4,S,nao,N,nao,sim,1,nao,B,revisado
+52290.0,7085,3,1,1,S,sim,sim,nao,nao,2,sim,C,em manutenção
+39200.0,7260,3,2,1,sim,sim,sim,nao,nao,3,nao,B,revisado
+28700.0,3040,2,1,1,nao,nao,nao,nao,nao,0,nao,E,nunca
+42000.0,2610,4,3,2,nao,nao,nao,N,N,0,nao,C,em manutenção
+33950.0,3450,3,17,11,sim,nao,sim,nao,nao,2,nao,C,sem manutenção
+23800.0,2787,4,2,2,sim,nao,nao,nao,nao,0,nao,C,revisado
+78750.0,6550,3,1,2,sim,nao,sim,nao,sim,0,sim,C,revisado
+108500.0,7500,3,3,1,sim,N,sim,nao,sim,2,sim,A,em manutenção
+29400.0,6615,3,1,2,sim,nao,nao,nao,nao,0,nao,C,em manutenção
+49700.0,4410,4,3,2,sim,nao,sim,nao,nao,2,nao,C,em manuTenção
+51100.0,6100,3,1,1,sim,nao,S,nao,sim,0,sim,C,em manutenção
+46900.0,5170,3,1,4,S,nao,nao,N,sim,0,nao,C,em manutenção
+52500.0,4260,4,1,2,sim,N,S,nao,sim,0,nao,C,revisado
+48300.0,6862,3,1,2,S,nao,nao,nao,S,2,sim,C,revisao feita
+24500.0,3240,2,1,1,nao,sim,nao,nao,nao,1,nao,D,nunca
+38870.82,1844,2,1,1,nao,sim,sim,nao,sim,2,nao,A,revisado
+46900.0,5400,2,1,2,sim,nao,nao,nao,nao,0,sim,C,em manutenção
+53830.0,6450,3,2,1,sim,sim,sim,S,nao,0,nao,B,sem manutenção
+89176.76,9670,3,2,1,N,N,nao,sim,sim,0,nao,E,sem manutenção
+190656.83,4241,2,1,1,nao,S,sim,nao,sim,2,nao,E,em manutenção
+23188.09,3148,2,1,1,nao,nao,nao,nao,S,1,sim,A,em manutenção
+45150.0,9860,3,1,1,sim,nao,N,nao,nao,0,nao,C,em manutenção
+68950.0,7700,3,2,1,sim,nao,nao,nao,nao,2,nao,B,sem manutenção
+73500.0,5150,3,2,4,sim,nao,nao,nao,sim,2,nao,B,em manutenção
+37800.0,3600,2,1,1,sim,nao,nao,nao,nao,0,nao,E,em manutenção
+153287.12,3595,2,1,1,nao,sim,sim,nao,nao,0,nao,D,revisado
+44100.0,3968,3,1,2,N,nao,N,nao,nao,0,nao,C,em manutenção
+96810.0,6000,4,3,2,sim,sim,sim,S,nao,2,nao,B,em manutenção
+42000.0,5850,2,1,1,sim,sim,sim,nao,nao,2,nao,C,em manutenção
+43190.0,4032,2,1,1,sim,nao,sim,nao,nao,0,nao,D,revisado
+57400.0,5400,4,2,2,sim,N,nao,nao,S,2,nao,B,nunca
+33600.0,3185,2,1,1,S,nao,sim,nao,nao,2,N,D,revisao feita
+32900.0,5880,3,1,1,sim,nao,N,nao,nao,1,N,C,sem
+63000.0,6400,3,1,1,sim,sim,sim,nao,sim,1,sim,C,em manutenção
+56000.0,5136,3,1,2,sim,sim,sim,nao,sim,0,sim,C,sem manutenção
+32200.0,2684,2,1,1,sim,nao,nao,nao,S,1,nao,D,sem manutenção
+38150.0,3150,2,2,1,N,nao,sim,nao,nao,0,nao,C,em manutenção
+35000.0,4600,13,1,2,sim,nao,N,nao,nao,12,nao,C,Em manutenção
+176113.11,3846,1,1,1,sim,sim,sim,nao,nao,0,nao,D,sem manutenção
+24850.0,4400,3,1,2,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+163352.12,3491,2,1,1,S,sim,sim,nao,sim,1,nao,D,sem
+37800.0,2856,3,1,3,S,nao,nao,nao,nao,0,sim,C,revisado
+43400.0,3500,4,1,2,sim,nao,nao,nao,nao,2,nao,C,revisado
+3952.5,5007,5,3,1,sim,sim,nao,nao,nao,3,sim,B,sem manutenção
+39200.0,3816,2,1,1,sim,nao,sim,nao,S,2,nao,D,revisado
+32200.0,4320,3,1,1,nao,nao,nao,nao,nao,1,nao,C,sem manutenção
+192455.59,2320,1,1,1,sim,nao,sim,nao,sim,1,nao,D,sem manutenção
+59500.0,7320,4,2,2,sim,nao,nao,nao,nao,0,nao,B,revisado
+31188.5,2398,3,1,1,sim,nao,nao,N,nao,0,sim,C,em manutenção
+53900.0,6710,3,2,2,sim,sim,sim,nao,N,1,sim,B,revisado
+40950.0,5600,2,1,1,sim,N,nao,nao,sim,0,nao,C,em manuTenção
+55300.0,3300,3,3,2,sim,nao,sim,nao,nao,0,nao,C,em manutenção
+77000.0,6480,3,2,4,sim,nao,N,nao,sim,2,nao,A,sem manutenção
+34300.0,2610,3,1,2,sim,N,sim,nao,nao,0,sim,C,sem manutenção
+39200.0,2145,13,2,1,sim,nao,sim,nao,nao,18,sim,C,sem manutenção
+35000.0,4600,4,1,2,sim,nao,N,nao,nao,0,nao,C,em manutenção
+65119.73,11457,5,4,1,sim,sim,sim,sim,nao,1,nao,E,sem manutenção
+45500.0,3520,3,1,1,sim,nao,nao,nao,nao,0,sim,C,em manutenção
+155871.04,3902,1,1,1,nao,N,sim,nao,nao,1,nao,E,sem manutenção
+32900.0,6060,11,19,1,sim,sim,sim,nao,nao,0,nao,C,revisado
+33600.0,3750,3,1,1,sim,nao,nao,nao,nao,0,nao,C,nunca
+49000.0,4770,3,1,1,sim,sim,sim,nao,nao,0,nao,C,em manutenção
+56525.0,6660,4,2,2,sim,sim,sim,nao,nao,1,sim,B,em manutenção
+31500.0,6750,2,1,1,sim,nao,nao,N,nao,0,nao,C,em manutenção
+35000.0,2135,16,2,11,nao,nao,nao,nao,N,0,nao,C,nunca
+42000.0,5040,3,1,2,sim,nao,sim,nao,S,0,nao,C,sem manutenção
+67200.0,5020,3,1,4,sim,nao,nao,nao,sim,0,sim,C,sem manutenção
+39200.0,8080,3,1,1,sim,nao,nao,nao,sim,2,nao,C,em manutenção
+42700.0,4360,4,1,2,sim,nao,nao,nao,nao,0,nao,C,revisado
+21350.0,3000,2,1,1,nao,nao,nao,nao,nao,0,nao,E,sem
+122150.0,7500,4,2,2,sim,nao,sim,nao,sim,3,sim,A,revisado
+31500.0,3500,2,1,1,nao,nao,sim,nao,nao,0,nao,E,em manutenção
+46200.0,3880,3,2,2,sim,nao,sim,nao,nao,2,nao,C,em manutenção
+43750.0,3900,3,1,2,sim,nao,N,N,nao,0,nao,C,sem manutenção
+8256.94,5365,5,3,2,sim,nao,sim,nao,nao,2,nao,A,em manutenção
+36330.0,3520,3,1,1,sim,nao,nao,nao,N,2,sim,C,sem manutenção
+47563.41,5834,3,4,1,N,sim,nao,sim,sim,2,sim,E,revisao feita
+81200.0,6840,5,1,2,sim,sim,sim,nao,sim,1,nao,C,revisado
+38500.0,7152,17,1,2,sim,nao,nao,nao,sim,10,nao,C,revisado
+39200.0,3290,2,1,1,sim,nao,nao,sim,nao,1,nao,D,Revisado
+57750.0,6000,3,2,18,sim,nao,N,nao,sim,19,nao,B,sem manutenção
+44730.0,3162,3,1,2,sim,nao,nao,nao,sim,1,nao,C,revisado
+25900.0,4400,2,1,1,sim,nao,nao,nao,nao,0,N,D,sem manutenção
+30030.0,8050,2,1,1,sim,nao,nao,N,nao,0,nao,C,sem manutenção
+24850.0,3000,3,1,2,nao,nao,nao,nao,nao,0,nao,C,em manutenção
+43400.0,4500,3,2,3,S,nao,nao,sim,nao,1,nao,C,revisado
+79800.0,9000,4,2,4,sim,nao,nao,nao,sim,2,nao,A,revisado
+42000.0,4079,3,1,3,sim,nao,nao,nao,nao,0,N,C,em manutenção
+22330.0,5300,3,1,1,nao,nao,nao,N,sim,0,sim,C,sem manutenção
+74200.0,6325,3,1,4,sim,nao,nao,nao,sim,1,N,C,nunca
+27300.0,4000,3,1,2,sim,N,nao,nao,nao,1,N,C,sem manutenção
+75250.0,6000,3,2,4,sim,nao,nao,nao,sim,1,nao,B,revisado
+66500.0,4040,3,1,2,sim,nao,sim,S,nao,1,nao,C,revisado
+18900.0,1700,3,1,2,sim,nao,N,nao,nao,0,nao,C,sem manutenção
+42000.0,5800,3,1,1,sim,nao,nao,sim,nao,2,N,C,em manutenção
+70350.0,6360,4,2,3,sim,nao,nao,nao,sim,2,sim,A,revisado
+49350.0,5948,3,1,2,sim,nao,nao,nao,sim,0,nao,C,em manutenção
+89600.0,8500,3,2,4,sim,nao,nao,nao,sim,2,nao,A,Revisado
+50400.0,7600,4,1,2,sim,nao,nao,nao,sim,2,nao,C,revisado
+58030.0,7000,3,1,1,sim,nao,sim,nao,nao,2,sim,C,Em manutenção
+178553.31,2091,1,1,1,sim,nao,S,nao,sim,1,nao,E,sem manutenção
+32900.0,2145,3,1,2,sim,nao,sim,nao,nao,0,sim,C,revisado
+98000.0,13200,3,1,2,sim,nao,sim,nao,sim,2,sim,C,revisado
+53200.0,7800,3,1,1,sim,nao,sim,nao,sim,2,sim,C,sem manutenção
+33600.0,4120,2,1,2,sim,nao,N,nao,nao,0,nao,C,sem manutenção
+55300.0,6100,3,2,1,sim,nao,sim,nao,nao,2,sim,B,revisado
+60200.0,6800,2,1,1,sim,sim,sim,nao,nao,2,nao,C,revisado
+40950.0,4040,2,16,15,sim,nao,nao,N,nao,1,nao,C,em manutenção
+58100.0,4800,3,1,3,sim,nao,N,nao,sim,0,nao,C,sem manutenção
+39200.0,5500,4,1,2,sim,sim,sim,nao,nao,0,nao,C,Em manutenção
+42000.0,2145,3,1,3,sim,nao,nao,N,nao,1,sim,C,sem manutenção
+29400.0,2700,2,1,1,nao,nao,nao,nao,nao,0,nao,E,revisado
+44030.0,4920,3,1,2,sim,N,N,nao,nao,1,nao,C,em manutenção
+30800.0,3090,2,1,1,sim,sim,S,nao,nao,0,nao,E,sem manutenção
+66150.0,10500,3,2,1,sim,nao,sim,N,sim,1,sim,A,revisado
+9427.27,4628,3,3,1,sim,nao,sim,nao,nao,1,sim,A,em manutenção
+44800.0,4040,3,1,2,sim,nao,nao,nao,nao,1,nao,C,em manutenção
+48650.0,4350,2,1,1,sim,nao,sim,nao,nao,0,nao,D,sem
+28700.0,5400,4,1,2,sim,nao,nao,N,nao,0,N,C,sem manutenção
+38850.0,3180,4,2,2,sim,nao,nao,nao,nao,0,nao,C,Revisado
+73500.0,6000,3,2,2,sim,sim,nao,nao,sim,1,nao,B,em manuTenção
+41230.0,6060,2,1,1,sim,nao,sim,nao,nao,1,nao,C,em manutenção
+63000.0,9000,3,1,1,sim,nao,sim,nao,nao,1,sim,C,revisado
+47530.0,6440,2,1,1,sim,nao,nao,nao,sim,3,nao,C,em manutenção
+26600.0,2800,3,1,1,sim,nao,nao,nao,nao,0,nao,C,sem manutenção
+22750.0,3970,1,1,1,nao,N,N,N,N,0,nao,D,sem manutenção
+49000.0,4520,3,1,2,sim,nao,S,nao,sim,0,nao,C,em manuTenção
+40250.0,3630,3,2,2,sim,nao,nao,sim,nao,2,nao,C,em manutenção
+59500.0,7231,18,18,2,sim,sim,sim,nao,sim,0,S,C,em manuTenção
+18900.0,3649,2,1,1,sim,nao,nao,nao,N,0,nao,D,sem
+18446.7,3821,1,1,1,nao,sim,nao,nao,sim,2,sim,A,em manutenção
+34300.0,2145,3,1,3,sim,nao,nao,nao,nao,0,S,C,revisado
+79625.0,6000,3,1,4,sim,S,nao,nao,sim,2,nao,C,sem manutenção
+46200.0,5010,3,1,2,sim,nao,sim,nao,nao,0,nao,C,em manutenção
+183136.93,3576,1,1,1,nao,nao,nao,nao,nao,0,nao,E,em manutenção
+47950.0,8100,4,1,4,sim,N,sim,nao,sim,2,nao,C,em manutenção
