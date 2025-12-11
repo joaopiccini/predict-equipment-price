@@ -1,4 +1,4 @@
-# 📊 Precificação e Classificação de Equipamentos Industriais
+# 📊 Precificação e Classificação de Equipamentos Industriais usando ML
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
@@ -9,9 +9,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto consiste em um conjunto de algoritmos de Machine Learning desenvolvidos para **otimizar a precificação e classificação de equipamentos industriais**.
-
-O sistema resolve dois problemas principais:
+Este projeto consiste em um conjunto de algoritmos de Machine Learning desenvolvidos para treinar modelos visando resolver dois problemas principais:
 
 1. **Previsão de Preço**: Estima o preço de venda de novos equipamentos baseado em suas características técnicas
 2. **Classificação de Equipamentos**: Categoriza equipamentos em classes (A, B, C, D, E) para segmentação de clientes
@@ -50,7 +48,7 @@ Projeto desenvolvido seguindo a metodologia CRISP-DM:
 
 ## 📊 Dataset
 
-O projeto utiliza dados históricos de equipamentos industriais com as seguintes variáveis:
+O projeto utiliza dados históricos de equipamentos industriais, fornecidos por uma empresa, com as seguintes variáveis:
 
 ### Variáveis Numéricas
 
@@ -64,7 +62,7 @@ O projeto utiliza dados históricos de equipamentos industriais com as seguintes
 
 - **Classe**: Categorização (A, B, C, D, E)
 - **Tecnologia**: Tipo (convencional, automatizada, embarcada, avançada)
-- **Status**: Situação de manutenção
+- **Status**: Situação atual de manutenção
 
 ### Variáveis Booleanas
 
