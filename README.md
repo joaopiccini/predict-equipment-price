@@ -7,6 +7,9 @@
 > **Projeto Final** — Curso de Ciência de Dados e Inteligência Artificial (CDIA 2025)  
 > Centro Universitário SENAI SC | Florianópolis/SC
 
+[![Static Badge](https://img.shields.io/badge/Apresenta%C3%A7%C3%A3o_oral_do_Projeto-Google_Drive-orange)
+](https://drive.google.com/file/d/1e650zAB8fuatlp94hI3tDpmX0PZC3zbd/view?usp=drive_link)
+
 ## 📋 Sobre o Projeto
 
 Este projeto consiste em um conjunto de algoritmos de Machine Learning desenvolvidos para treinar modelos visando resolver dois problemas principais:
